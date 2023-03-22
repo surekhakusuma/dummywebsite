@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<head>
+<title>Dummy website</title>
+</head>
+<body>
+<script>
+var slideIndex = 0;
+console.log('script loaded);
+slideIndex++;
+}
+</script>
+</body>
